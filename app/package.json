@@ -1,0 +1,24 @@
+{
+  "name": "deploy-example-nodejs",
+  "version": "1.0.0",
+  "description": "A NodeJS example for testing Cleavr deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleavr/deploy-example-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleavr/deploy-example-nodejs/issues"
+  },
+  "homepage": "https://github.com/cleavr/deploy-example-nodejs#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "faker": "^5.5.3",
+    "fastify": "^3.20.2"
+  }
+}
